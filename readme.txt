@@ -22,6 +22,8 @@ font-font-awesome
 .zshrc needs to be pastet into ~/
 .p10k.zsh also into ~/
 i3status.conf into /etc
+slate.rasi to /usr/share/rofi/themes change rofi theme with: rofi-theme-selector
+
 
 #DESIGN
 Arc theme
