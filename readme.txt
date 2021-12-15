@@ -1,3 +1,5 @@
+#outdated...
+
 #DEPENDENCIES
 i3-gaps
 i3status
