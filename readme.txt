@@ -34,4 +34,4 @@ notion-repackaged
 rambox
 bluetooth
 synergy
-find out how to get onedrive (i think something with rclone)
+rclone
